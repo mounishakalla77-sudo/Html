@@ -3,8 +3,9 @@
 <title>list<\title>
 <\head>
 <body> 
-<ol> <i>
+<ol><i></i>
 <li>grp<\li>
 <li>mpcs<\li>
+</ol>
 <\body>
 <\html>
